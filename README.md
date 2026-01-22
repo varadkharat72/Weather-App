@@ -37,7 +37,7 @@ screenshots/home.png
 ---
 
 ## 🔗 Live Demo
-*(Add GitHub Pages / Netlify link here)*
+https://varadkharat72.github.io/Weather-App/
 
 ---
 
