@@ -42,7 +42,7 @@ A simple and responsive weather application built using **JavaScript, HTML, and 
 ---
 
 ## 🔗 Live Demo
-https://varadkharat72.github.io/Weather-App/
+*([Weather App](https://varadkharat72.github.io/Weather-App/))*
 
 ---
 
