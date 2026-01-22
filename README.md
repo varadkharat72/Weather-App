@@ -31,8 +31,13 @@ A simple and responsive weather application built using **JavaScript, HTML, and 
 ---
 
 ## 📸 Screenshots
-- screenshots/home.png
-- screenshots/result.png
+
+### Home Screen
+![Home](screenshots/home.png)
+
+### Weather Result
+![Result](screenshots/result.png)
+
 
 ---
 
