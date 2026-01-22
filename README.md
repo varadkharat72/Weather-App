@@ -32,7 +32,7 @@ A simple and responsive weather application built using **JavaScript, HTML, and 
 
 ## 📸 Screenshots
 screenshots/home.png
-
+screenshots/result.png
 
 ---
 
